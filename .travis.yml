@@ -3,7 +3,3 @@ language: bash
 
 script:
   - bash updater.sh
-
-branches:
-  only:
-    - travis
