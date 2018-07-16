@@ -16,6 +16,8 @@ cd build
 
 git remote add upload "https://$GH_TOKEN@github.com/iBug/SmokeDetector.git" &>/dev/null
 git push upload master --force &>/dev/null
+git checkout -b deploy
+git push upload deploy --force &>/dev/null
 
 cd "$SAVE_PWD"
 rm -rf build
