@@ -80833,3 +80833,4 @@
 1776222465	Dan Getz	talordata\.com
 1776235012	Dan Getz	faisalmian\.com
 1776235084	Dan Getz	ruangjual\.com
+1776238666	VLAZ	findallterminal\.com
