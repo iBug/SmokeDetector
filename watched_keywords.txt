@@ -80830,3 +80830,4 @@
 1776192997	General Grievance	moonlitemoney\.com
 1776194078	Jeff Schaller	gradixpro\.com
 1776221686	Dan Getz	plexo\.work
+1776222465	Dan Getz	talordata\.com
