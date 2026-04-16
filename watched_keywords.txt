@@ -80863,3 +80863,4 @@
 1776361639	VLAZ	(?-i:Publik404God)(?# t.me)
 1776367113	Jeff Schaller	slidesextract\.com
 1776371637	VLAZ	full-screen\.app
+1776380384	Vickel	eringen\.com
