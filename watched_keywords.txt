@@ -80861,3 +80861,4 @@
 1776343978	Jeff Schaller	MH[\W_]*+Cognition
 1776352804	Dan Getz	receiptsfaker\.com
 1776361639	VLAZ	(?-i:Publik404God)(?# t.me)
+1776367113	Jeff Schaller	slidesextract\.com
