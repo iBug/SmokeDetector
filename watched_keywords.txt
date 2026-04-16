@@ -80859,3 +80859,4 @@
 1776340478	Dan Getz	agro-ray\.com
 1776343841	Jeff Schaller	procafeconsulting\.com
 1776343978	Jeff Schaller	MH[\W_]*+Cognition
+1776352804	Dan Getz	receiptsfaker\.com
