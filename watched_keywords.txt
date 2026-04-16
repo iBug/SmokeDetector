@@ -80851,3 +80851,4 @@
 1776326645	VLAZ	diebestengutscheine\.de
 1776331810	VLAZ	trademarx\.in
 1776331986	VLAZ	Peptide[\W_]*+Hub
+1776335793	Jeff Schaller	alphabetplatesuk\.com
