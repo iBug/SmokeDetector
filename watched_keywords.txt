@@ -80849,3 +80849,4 @@
 1776324600	VLAZ	lookbookair\.com
 1776324818	VLAZ	devicexa\.com
 1776326645	VLAZ	diebestengutscheine\.de
+1776331810	VLAZ	trademarx\.in
