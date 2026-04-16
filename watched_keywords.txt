@@ -80850,4 +80850,3 @@
 1776324818	VLAZ	devicexa\.com
 1776326645	VLAZ	diebestengutscheine\.de
 1776331810	VLAZ	trademarx\.in
-1776331953	VLAZ	Peptide[\W_]Hub
