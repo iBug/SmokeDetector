@@ -80870,3 +80870,4 @@
 1776421807	Jeff Schaller	photonconsole\.com
 1776421855	Jeff Schaller	derhems\.blogspot
 1776428476	Jeff Schaller	equranzone\.com
+1776429451	Dan Getz	drivedefensivelytexas\.com
