@@ -80865,3 +80865,4 @@
 1776371637	VLAZ	full-screen\.app
 1776380384	Vickel	eringen\.com
 1776400178	Dan Getz	loanitol\.com
+1776406603	VLAZ	educamapas\.com\.br
