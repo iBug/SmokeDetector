@@ -80883,3 +80883,4 @@
 1776526553	VLAZ	hathanhmotor\.com
 1776527590	VLAZ	hifamiapp\.com
 1776527698	VLAZ	clura\.ai
+1776527911	VLAZ	nothing[\W_]*+browsers[\W_]*+piggy
