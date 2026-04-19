@@ -80886,3 +80886,4 @@
 1776527911	VLAZ	nothing[\W_]*+browsers[\W_]*+piggy
 1776527919	VLAZ	nothing-browser-docs\.pages\.dev
 1776535333	VLAZ	slidesgrabber\.com
+1776558305	Jeff Schaller	emcindustrial\.com
