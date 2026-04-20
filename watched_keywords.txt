@@ -80899,3 +80899,4 @@
 1776665266	VLAZ	marketplace-seconldlife-let-p-be1335f33c3f\.herokuapp\.com
 1776666212	VLAZ	intodns\.ai
 1776672506	VLAZ	majhiladakibahin\.com
+1776672530	VLAZ	matrimonialsindia\.com
