@@ -80900,3 +80900,4 @@
 1776666212	VLAZ	intodns\.ai
 1776672506	VLAZ	majhiladakibahin\.com
 1776672530	VLAZ	matrimonialsindia\.com
+1776674845	VLAZ	estimately\.io
