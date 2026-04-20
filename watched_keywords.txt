@@ -80904,3 +80904,4 @@
 1776675611	VLAZ	smsfoxbox\.it
 1776681882	VLAZ	saudirailway\.net
 1776681911	VLAZ	greensparksoftware\.com
+1776688393	VLAZ	nabuenergy\.com
