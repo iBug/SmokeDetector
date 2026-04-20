@@ -80908,3 +80908,4 @@
 1776689378	VLAZ	phonelockboxes\.com
 1776692651	Jeff Schaller	treeservicedenverllc\.com
 1776699096	Jeff Schaller	Zyminex
+1776713517	VLAZ	serracatch\.myshopify\.com
