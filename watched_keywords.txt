@@ -80915,3 +80915,4 @@
 1776751408	VLAZ	systemds\.io
 1776751682	VLAZ	vert-age[\W_]*+dialer
 1776752185	VLAZ	thedreamridersgroup\.com
+1776752207	VLAZ	dream[\W_]*+riders[\W_]*+mototouring
