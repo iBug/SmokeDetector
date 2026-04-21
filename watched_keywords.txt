@@ -80913,3 +80913,4 @@
 1776729938	VLAZ	foractx777\.pro
 1776748498	VLAZ	powerliftgroup\.ae
 1776751408	VLAZ	systemds\.io
+1776751682	VLAZ	vert-age[\W_]*+dialer
