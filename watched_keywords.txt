@@ -80914,3 +80914,4 @@
 1776748498	VLAZ	powerliftgroup\.ae
 1776751408	VLAZ	systemds\.io
 1776751682	VLAZ	vert-age[\W_]*+dialer
+1776752185	VLAZ	thedreamridersgroup\.com
