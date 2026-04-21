@@ -80919,3 +80919,4 @@
 1776752635	VLAZ	silverstreakhospital\.com
 1776760651	VLAZ	neurologyconf\.com
 1776761811	VLAZ	balatrocalc\.com
+1776768141	Jeff Schaller	iPhone[\W_]*+Refixer
