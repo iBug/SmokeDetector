@@ -80937,3 +80937,4 @@
 1776867781	Dan Getz	github\.com/lackystar043-svg
 1776877640	Dan Getz	voicetonotes\.ai
 1776877679	Dan Getz	ai\.voicetonotes\.(?#play.google.com)
+1776886374	VLAZ	caasiinoo\.com
