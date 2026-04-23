@@ -80955,3 +80955,4 @@
 1776944626	Dan Getz	shree[\W_]*+mahalaxmi[\W_]*+steel(?!\.com(?<=shreemahalaxmisteel\.com))
 1776944737	Dan Getz	blr[\W_]*+data[\W_]*+recovery
 1776956548	Dan Getz	amyntasmedia\.com
+1776956995	Dan Getz	geodit\.in
