@@ -80946,3 +80946,4 @@
 1776924662	VLAZ	scicalcpro\.com
 1776929456	VLAZ	tuesdaytickets\.com
 1776941154	Dan Getz	allpanelexchapp\.com\.in
+1776942351	Jeff Schaller	oigetit\.com
