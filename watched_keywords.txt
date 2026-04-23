@@ -80956,3 +80956,4 @@
 1776944737	Dan Getz	blr[\W_]*+data[\W_]*+recovery
 1776956548	Dan Getz	amyntasmedia\.com
 1776956995	Dan Getz	geodit\.in
+1776959101	Dan Getz	bryghtenup\.com
