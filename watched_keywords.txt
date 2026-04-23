@@ -80945,3 +80945,4 @@
 1776922432	Cow	deptheon\.com
 1776924662	VLAZ	scicalcpro\.com
 1776929456	VLAZ	tuesdaytickets\.com
+1776941154	Dan Getz	allpanelexchapp\.com\.in
