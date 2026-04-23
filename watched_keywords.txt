@@ -80941,3 +80941,4 @@
 1776910512	Dan Getz	pixelcarracer\.pro
 1776910525	Dan Getz	gptimg2ai\.net
 1776922254	VLAZ	adsrole\.com
+1776922419	Cow	deptheon(?!\.com(?<=deptheon\.com))
