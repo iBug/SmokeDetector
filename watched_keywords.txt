@@ -80943,3 +80943,4 @@
 1776922254	VLAZ	adsrole\.com
 1776922419	Cow	deptheon(?!\.com(?<=deptheon\.com))
 1776922432	Cow	deptheon\.com
+1776924662	VLAZ	scicalcpro\.com
