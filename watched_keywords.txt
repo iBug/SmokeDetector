@@ -80973,3 +80973,4 @@
 1777105871	VLAZ	brightgate\.ae
 1777110111	VLAZ	footballscore\.news
 1777121741	Dan Getz	nexbillio\.com
+1777139075	Jeff Schaller	baixarvideopin\.com\.br
