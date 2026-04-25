@@ -3915,3 +3915,4 @@ Q̳u̳i̳c̳k̳B̳o̳o̳k̳s̳
 (?m:^Legal Officer$)
 Apakah[\W_]*+Tokopedia
 Tiranga(?:[\W_]*+Game)?(?:[\W_]*+(?:App|Club))?
+digitalaka
