@@ -80980,3 +80980,4 @@
 1777199647	Jeff Schaller	addendanalytics\.com
 1777202424	VLAZ	nid[\W_]*+card[\W_]*+check
 1777202468	VLAZ	princedaniel0997
+1777210475	Jeff Schaller	pracal\.io
