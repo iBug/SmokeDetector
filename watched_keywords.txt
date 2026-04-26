@@ -80979,3 +80979,4 @@
 1777198452	Nisse Engström	trimrx\.com
 1777199647	Jeff Schaller	addendanalytics\.com
 1777202424	VLAZ	nid[\W_]*+card[\W_]*+check
+1777202468	VLAZ	princedaniel0997
