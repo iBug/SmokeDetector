@@ -80997,3 +80997,4 @@
 1777288831	VLAZ	hindsteel\.com
 1777291399	VLAZ	jarvisreach\.io
 1777291406	VLAZ	jarvis[\W_]*+reach(?!\.io(?<=jarvisreach\.io))
+1777299011	VLAZ	devsheild\.live
