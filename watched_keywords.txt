@@ -80992,3 +80992,4 @@
 1777278485	VLAZ	hellobooks\.ai
 1777278523	VLAZ	teamlamp\.com
 1777280626	VLAZ	doorwin
+1777280690	VLAZ	jacketscreator\.com
