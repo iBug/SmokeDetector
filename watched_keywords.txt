@@ -78702,7 +78702,6 @@
 1764912168	VLAZ	mayvesinhcongnghiep\.net
 1764917180	VLAZ	fafaconcepts\.com
 1764917772	VLAZ	propertyonion\.com
-1764917801	VLAZ	jarvis[\W_]*+reach
 1764925319	VLAZ	damdaroil\.com
 1764926490	VLAZ	benhvienthammygangwhoo\.vn
 1764928831	VLAZ	dollb2027(?:@gmail\.com)
