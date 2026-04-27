@@ -80993,3 +80993,4 @@
 1777278523	VLAZ	teamlamp\.com
 1777280626	VLAZ	doorwin
 1777280690	VLAZ	jacketscreator\.com
+1777284627	VLAZ	vamox\.co\.in
