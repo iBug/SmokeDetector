@@ -80996,3 +80996,4 @@
 1777287471	VLAZ	subhadipsingha05@gmail\.com
 1777288831	VLAZ	hindsteel\.com
 1777291399	VLAZ	jarvisreach\.io
+1777291406	VLAZ	jarvis[\W_]*+reach(?!\.io(?<=jarvisreach\.io))
