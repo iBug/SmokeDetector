@@ -81000,3 +81000,4 @@
 1777299011	VLAZ	devsheild\.live
 1777299267	VLAZ	shop\.maaltalk\.com
 1777303483	Jeff Schaller	geeetupper38(?:@proton\.me)?
+1777308602	Jeff Schaller	technicalworld\.co
