@@ -81005,3 +81005,4 @@
 1777359395	VLAZ	99eedu[\W_]*+institute
 1777365624	VLAZ	jimsd\.org
 1777371524	Jeff Schaller	emecron\.com
+1777375866	VLAZ	mctiyu\.cc
