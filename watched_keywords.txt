@@ -81004,3 +81004,4 @@
 1777356501	VLAZ	arlingtonresidential\.com
 1777359395	VLAZ	99eedu[\W_]*+institute
 1777365624	VLAZ	jimsd\.org
+1777371524	Jeff Schaller	emecron\.com
