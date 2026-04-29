@@ -81012,3 +81012,4 @@
 1777403646	Jeff Schaller	hdmn\.site
 1777408527	VLAZ	neoved\.io
 1777435096	Dan Getz	blockifybuilder\.com
+1777440494	VLAZ	mixtacademy\.com
