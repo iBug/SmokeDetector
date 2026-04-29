@@ -81025,3 +81025,4 @@
 1777461106	VLAZ	hawaii[\W_]*+doors[\W_]*+windows
 1777462098	Dan Getz	wellcalculate\.com
 1777462851	VLAZ	infinix\.in
+1777468149	Jeff Schaller	txdiepflap\.com
