@@ -81014,3 +81014,4 @@
 1777435096	Dan Getz	blockifybuilder\.com
 1777440494	VLAZ	mixtacademy\.com
 1777441688	VLAZ	locksmithwhittierpro\.com
+1777451740	VLAZ	k[\W_]*+k[\W_]*+studio(?!\.co\.uk(?<=kkstudio\.co\.uk))
