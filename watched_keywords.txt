@@ -40357,7 +40357,6 @@
 1657879365	Makyen	(?-i:ELnR9fW)(?#cutt.ly)
 1657879392	Makyen	fridayshopping\.vn
 1657879429	Makyen	fridayshopping(?!\.vn)
-1657879455	Makyen	emblixacademy\.com
 1657880381	Jeff Schaller	ochk\.hk
 1657880672	Jeff Schaller	Hinyeung
 1657880695	Jeff Schaller	healthherbsclinic
