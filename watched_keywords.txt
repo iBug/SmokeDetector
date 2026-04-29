@@ -81022,3 +81022,4 @@
 1777458572	Jeff Schaller	navnirmanfoundation\.com
 1777458671	Jeff Schaller	rankar\.ai
 1777461099	VLAZ	hawaii[\W_]*+steel[\W_]*+doors
+1777461106	VLAZ	hawaii[\W_]*+doors[\W_]*+windows
