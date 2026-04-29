@@ -81032,3 +81032,4 @@
 1777483633	VLAZ	id49948591(?# my-links.website)
 1777483642	VLAZ	id5262289250(?# profile-hub.uno)
 1777484192	VLAZ	profile-hub\.uno(?# drop this watch if it gets FPs)
+1777484201	VLAZ	instahub\.fun(?# drop this watch if it gets FPs)
