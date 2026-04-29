@@ -81028,3 +81028,4 @@
 1777468149	Jeff Schaller	txdiepflap\.com
 1777474680	Dan Getz	quransurahs\.org
 1777481851	Dan Getz	prourlmonitor\.com
+1777481864	Dan Getz	prourlmonitor(?!\.com)
