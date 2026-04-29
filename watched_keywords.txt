@@ -81016,3 +81016,4 @@
 1777441688	VLAZ	locksmithwhittierpro\.com
 1777451740	VLAZ	k[\W_]*+k[\W_]*+studio(?!\.co\.uk(?<=kkstudio\.co\.uk))
 1777451748	VLAZ	kkstudio\.co\.uk
+1777451798	VLAZ	fast-transcriber\.com
