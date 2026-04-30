@@ -81052,3 +81052,4 @@
 1777555239	VLAZ	fenomeno888(?# telegram)
 1777555248	VLAZ	polymtradebot\.com
 1777565422	Dan Getz	gentleresiliencestudio\.com
+1777574684	Jeff Schaller	2dm-webviewer\.de
