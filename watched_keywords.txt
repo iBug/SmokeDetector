@@ -81050,3 +81050,4 @@
 1777551994	VLAZ	nubia[\W_]*+smartphones
 1777552997	Jeff Schaller	infinix360\.com
 1777555239	VLAZ	fenomeno888(?# telegram)
+1777555248	VLAZ	polymtradebot\.com
