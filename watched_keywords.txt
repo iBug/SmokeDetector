@@ -81047,3 +81047,4 @@
 1777548897	Jeff Schaller	ukoddsapi\.com
 1777549697	VLAZ	ditosimregister\.com
 1777550816	VLAZ	mommabearusa\.com
+1777551994	VLAZ	nubia[\W_]*+smartphones
