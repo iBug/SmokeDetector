@@ -81035,3 +81035,4 @@
 1777484201	VLAZ	instahub\.fun(?# drop this watch if it gets FPs)
 1777484208	VLAZ	my-links\.website(?# drop this watch if it gets FPs)
 1777488529	Dan Getz	ssvtiktok\.com
+1777543323	Jeff Schaller	globalmapper\.id
