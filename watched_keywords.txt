@@ -81049,3 +81049,4 @@
 1777550816	VLAZ	mommabearusa\.com
 1777551994	VLAZ	nubia[\W_]*+smartphones
 1777552997	Jeff Schaller	infinix360\.com
+1777555239	VLAZ	fenomeno888(?# telegram)
