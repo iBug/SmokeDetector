@@ -81073,3 +81073,4 @@
 1777645741	Jeff Schaller	aurafirstscience\.com
 1777646550	Jeff Schaller	aanwebsolutions\.com
 1777646588	Jeff Schaller	AAN[\W_]*+Web[\W_]*+Solutions
+1777651706	Jeff Schaller	electronicdesignblogjohn\.blogspot
