@@ -81068,3 +81068,4 @@
 1777632827	Dan Getz	jalwahapp\.com
 1777634571	Dan Getz	afterallalong\.com
 1777636308	Dan Getz	1leaptechnologies\.com
+1777640482	Dan Getz	rsz-reused-r-finder\.blogspot
