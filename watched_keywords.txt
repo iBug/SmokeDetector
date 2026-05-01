@@ -81074,3 +81074,4 @@
 1777646550	Jeff Schaller	aanwebsolutions\.com
 1777646588	Jeff Schaller	AAN[\W_]*+Web[\W_]*+Solutions
 1777651706	Jeff Schaller	electronicdesignblogjohn\.blogspot
+1777679740	Jeff Schaller	abyasam\.com
