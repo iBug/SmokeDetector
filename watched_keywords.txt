@@ -81058,3 +81058,4 @@
 1777602144	Dan Getz	c3c\.build
 1777617089	VLAZ	advanceduser\.net
 1777617167	VLAZ	reportcrime_h[\W_]*+proton[\W_]*+me
+1777618941	VLAZ	viewtvy\.com
