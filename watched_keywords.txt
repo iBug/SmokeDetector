@@ -81062,4 +81062,3 @@
 1777618948	VLAZ	tereatv\.com
 1777618955	VLAZ	freegotv\.com
 1777618962	VLAZ	bestiptvguide\.com
-1777631065	Dan Getz	currencylayer\.com
