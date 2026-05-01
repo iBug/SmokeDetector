@@ -81060,3 +81060,4 @@
 1777617167	VLAZ	reportcrime_h[\W_]*+proton[\W_]*+me
 1777618941	VLAZ	viewtvy\.com
 1777618948	VLAZ	tereatv\.com
+1777618955	VLAZ	freegotv\.com
