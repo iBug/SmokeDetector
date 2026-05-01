@@ -81071,3 +81071,4 @@
 1777640482	Dan Getz	rsz-reused-r-finder\.blogspot
 1777643540	Jeff Schaller	tcsexpress\.com\.pk
 1777645741	Jeff Schaller	aurafirstscience\.com
+1777646550	Jeff Schaller	aanwebsolutions\.com
