@@ -81085,3 +81085,4 @@
 1777718879	Dan Getz	unirr\.in
 1777720299	Dan Getz	freemaxfire\.com
 1777720600	Dan Getz	aura-trade\.pro
+1777723793	Jeff Schaller	iptvsmartplayer\.org
